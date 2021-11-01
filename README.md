@@ -1,7 +1,6 @@
 # Spook_alle
 
 
-
 -  About -Made by Ashish (Github: Ashish-Github193) and Avinash-sord12k
 
 - Version - BETA  v_1.0  /1-11-2021/  (game is at its base version more items and animation will be added soon)
@@ -22,3 +21,6 @@
 	The game contains some voilent/disturbing scenes and sounds so I would recommand the minimum age of player should be 12years
 
 - NOW ENJOY :))))
+
+![pygame](https://user-images.githubusercontent.com/79639825/139626917-509ab3e2-4fd2-438e-a3d8-4d11008c1512.png)
+Powered by pygame
