@@ -1,1 +1,1 @@
-'assets/ariel.ttf'
+"assets/ariel.TTF"
